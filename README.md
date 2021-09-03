@@ -1,8 +1,11 @@
-<h1 align="center">  <i><b>yoarajota</b></i></h1>
+<h1 align="center"> <i><b>yoarajota</b></i></h1>
 
-<h2 align="center">   <img src="yj_1.png" width="18%"> </h2>
+<h2 align="center">   <img src="yj_1.png" width="153px"> </h2>
 
-<h5 align="center">   <a href="https://twitter.com/yoarajota" letter-spaing="3px" style="text-decoration: none;"><b>twitter</b></a>  </h5>
+<pre align="center">
+ <a href="https://twitter.com/yoarajota"><b>twitter</b></a>      <a href="https://last.fm/user/yoarajota"><b>lastfm</b></a>
+</pre>
+                                                           
 <h2></h2>
 <h2></h2>
  <p align="right">
