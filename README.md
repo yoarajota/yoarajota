@@ -2,6 +2,9 @@
 
 ![](https://github.com/yoarajota/yoarajota/blob/main/yj_1.png)
 
+##currently learning
+
+
 
 <!--
 **yoarajota/yoarajota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
