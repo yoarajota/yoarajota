@@ -2,7 +2,8 @@
 
 ![](https://github.com/yoarajota/yoarajota/blob/main/yj_1.png)
 
-##currently learning
+### currently learning
+#### html, css, javascript, flutter, dart
 
 
 
