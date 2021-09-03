@@ -1,9 +1,9 @@
 # _yoarajota_
 <div display="inline">
   <img src="yj_1.png" width="15%">
-
+ 
+      [twitter]
   
- [twitter] <img src="https://img.icons8.com/ios/50/000000/twitter--v1.png" width="14px">
   <h3> currently learning 👇 </h3>
   <h4> html, css, javascript, flutter, dart </h4>
 </div>
