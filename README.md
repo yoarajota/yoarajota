@@ -1,12 +1,14 @@
-<h1 align="center">  <i><b>y o a r a j o t a</b></i></h1>
+<h1 align="center">  <i><b>yoarajota</b></i></h1>
 
-<p align="center">   <img src="yj_1.png" width="20%"> </p>
+<h2 align="center">   <img src="yj_1.png" width="18%"> </h2>
 
-<p align="center">   <a href="https://twitter.com/yoarajota" letter-spaing="3px" style="text-decoration: none;"><b>t w i t t e r</b></a>  </p>
-  
-  </br>
-  </br>
-<h3 align="right"><b>currently learning 👇 </b></h3>
-<h4 align="right"><i> html, css, javascript, flutter, dart </i></h4>
+<h5 align="center">   <a href="https://twitter.com/yoarajota" letter-spaing="3px" style="text-decoration: none;"><b>twitter</b></a>  </h5>
+<h2></h2>
+<h2></h2>
+ <p align="right">
+  <b>currently learning 👉</b>
+  <i> html, css, javascript, flutter, dart </i>
+</p>
+<p align="right"><b>university;</b><i> -//-, 0% <i></p> 
 
 
