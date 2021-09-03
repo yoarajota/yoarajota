@@ -2,10 +2,15 @@
 <div display="inline">
   <img src="yj_1.png" width="15%">
 
+  
+ [twitter] <img src="https://img.icons8.com/ios/50/000000/twitter--v1.png" width="14px">
   <h3> currently learning 👇 </h3>
   <h4> html, css, javascript, flutter, dart </h4>
 </div>
 
+
+
+[Twitter]: https://twitter.com/yoarajota
 
 <!--
 **yoarajota/yoarajota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
