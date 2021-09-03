@@ -1,29 +1,12 @@
-# _yoarajota_
+<h1 align="center">  <i><b>y o a r a j o t a</b></i></h1>
 
-  <img src="yj_1.png" width="15%">
-  
-<a href="https://twitter.com/yoarajota" style="text-decoration: none;" target="_blank">twitter</a>
+<p align="center">   <img src="yj_1.png" width="20%"> </p>
+
+<p align="center">   <a href="https://twitter.com/yoarajota" letter-spaing="3px" style="text-decoration: none;"><b>t w i t t e r</b></a>  </p>
   
   </br>
-   </br>
-  <h3> currently learning 👇 </h3>
-  <h4> html, css, javascript, flutter, dart </h4>
+  </br>
+<h3 align="right"><b>currently learning 👇 </b></h3>
+<h4 align="right"><i> html, css, javascript, flutter, dart </i></h4>
 
 
-
-[twitter]: https://twitter.com/yoarajota
-
-<!--
-**yoarajota/yoarajota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
