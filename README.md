@@ -1,6 +1,6 @@
 # _yoarajota_ 
 
-![](https://github.com/yoarajota/yoarajota/blob/main/yj1.png)
+![](https://github.com/yoarajota/yoarajota/blob/main/yj_1.png)
 
 
 <!--
