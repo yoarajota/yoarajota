@@ -1,10 +1,10 @@
-# _yoarajota_ 
+# _yoarajota_
+<div display="inline">
+  <img src="yj_1.png" width="15%">
 
-![](https://github.com/yoarajota/yoarajota/blob/main/yj_1.png)
-
-### currently learning
-#### html, css, javascript, flutter, dart
-
+  <h3> currently learning 👇 </h3>
+  <h4> html, css, javascript, flutter, dart </h4>
+</div>
 
 
 <!--
