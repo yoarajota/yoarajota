@@ -1,17 +1,21 @@
 <h1 align="center"> <i><b>yoarajota</b></i></h1>
 
-<h2 align="center">   <img src="yj_1.png" width="153px"> </h2>
+<h2 align="center">   <img src="yj_2.png" width="200px"> </h2>
 
-<pre align="center">
- <a href="https://twitter.com/yoarajota"><b>twitter</b></a>      <a href="https://last.fm/user/yoarajota"><b>lastfm</b></a>
-</pre>
+<div align="center">
+ <a href="https://twitter.com/yoarajota" target="_blank"><img src="https://image.flaticon.com/icons/png/512/121/121503.png" width="40px"></a>
+ <a href="https://last.fm/user/yoarajota" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/142/142406.png" width="40px"></a>
+</div>
                                                            
 <h2></h2>
 <h2></h2>
- <p align="right">
+ <div align="right">
+  <img src="yj_1.png" width="130px">
+ <div>
   <b>currently learning 👉</b>
   <i> html, css, javascript, flutter, dart </i>
-</p>
+ </div>
+</div>
 <p align="right"><b>university;</b><i> -//-, 0% <i></p> 
 
 
