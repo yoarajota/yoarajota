@@ -1,4 +1,4 @@
-<h1 align="center"> <i><b>yoarajota</b></i></h1>
+<h1 align="center"><samp>yoarajota</samp></h1>
 
 <h2 align="center">   <img src="yj_2.png" width="200px"> </h2>
 
@@ -13,7 +13,7 @@
   <img src="yj_1.png" width="130px">
  <div>
   <b>currently learning 👉</b>
-  <i> html, css, javascript, flutter, dart </i>
+  <i>html, css, javascript, flutter, dart </i>
  </div>
 </div>
 <p align="right"><b>university;</b><i> -//-, 0% <i></p> 
