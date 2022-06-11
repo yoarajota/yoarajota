@@ -12,7 +12,7 @@
   <img src="yj_1.png" width="130px">
  <div>
   <b>currently learning 👉</b>
-  <i>html, css, javascript, flutter, {dart, react-js} </i>
+  <i>html, css, javascript, flutter, php, laravel, {dart, react-js} </i>
  </div>
 </div>
 <p align="right"><b>university;</b><i> -//-, 0% <i></p> 
