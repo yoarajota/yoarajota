@@ -3,7 +3,7 @@
 <h2 align="center">   <img src="yj_2.png" width="200px"> </h2>
 
 <div align="center">
- <a href="https://last.fm/user/yoarajota" target="_blank"><img src="https://image.flaticon.com/icons/png/512/143/143664.png" width="40px"></a>
+ <a href="https://last.fm/user/yoarajota" target="_blank"><img src="https://www.svgrepo.com/show/65333/lastfm.svg" width="40px"></a>
 </div>
                                                            
 <h2></h2>
