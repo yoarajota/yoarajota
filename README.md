@@ -15,6 +15,6 @@
   <i> javascript, php, laravel, react-js, html, css, sql </i>
  </div>
 </div>
-<p align="right"><b>university;</b><i> -//-, 0% <i></p> 
+<p align="right"><b>university;</b><i> -//-, 17% <i></p> 
 
 
