@@ -12,9 +12,9 @@
   <img src="yj_1.png" width="130px">
  <div>
   <b>currently learning 👉</b>
-  <i> javascript, php, laravel, react-js, html, css, sql </i>
+  <i> javascript, php, laravel, react-js, html, css, sql, python, nodejs </i>
  </div>
 </div>
-<p align="right"><b>university;</b><i> -//-, 17% <i></p> 
+<p align="right"><b>university;</b><i> -//-, 34% <i></p> 
 
 
