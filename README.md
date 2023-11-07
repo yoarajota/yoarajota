@@ -8,10 +8,24 @@
                                                            
  <div align="right">
   <img src="yj_1.png" width="130px">
- <div>
-  <b>currently learning 👉</b>
-  <i> javascript, php, laravel, react-js, html, css, sql, python, nodejs, supabase, postgresql, mysql, docker </i>
  </div>
-</div>
+
+**Currently Learning** 👉
+- JavaScript
+- PHP
+- Laravel
+- React.js
+- HTML
+- CSS
+- SQL
+- Python
+- Node.js
+- Supabase
+- PostgreSQL
+- MySQL
+- Docker
+
+- <img src="https://profile-counter.glitch.me/yoarajota/count.svg" />
+  
 <p align="right"><b>university;</b><i> -//-, 66,66% <i></p> 
 <p align="center">________________________________________________________________________________________________________________________________________________________</p>
