@@ -1,5 +1,5 @@
 <p align="center">᧶ <samp>yoarajota</samp></p>
-<p align="center"><samp>[currently working at](https://github.com/joao-ryft)</samp></p>
+<p align="center"><samp><a href="https://github.com/joao-ryft">[currently working at]</a></samp></p>
 <p align="center"> <img src="yj_2.png" width="200px"> </p>
 
 <div align="center">
